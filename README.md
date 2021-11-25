@@ -1,5 +1,5 @@
 # create-classlib-ps1
-Script for creating classlib and unit test
+Script for creating classlib and unit test, and add projects to solution file
 
 # Use example
 
